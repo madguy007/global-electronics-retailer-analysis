@@ -4,15 +4,15 @@
 
 ### Executive Overview
 
-![Executive Overview](dashboard_images/executive_overview.png)
+![Executive Overview](dashbaord_images/executive_overview.png)
 
 ### Product Performance Analysis
 
-![Product Performance Analysis](dashboard_images/product_performance.png)
+![Product Performance Analysis](dashbaord_images/product_performance.png)
 
 ### Customer Insights Analysis
 
-![Customer Insights Analysis](dashboard_images/customer_insights.png)
+![Customer Insights Analysis](dashbaord_images/customer_insights.png)
 
 ---
 
